@@ -1,5 +1,2 @@
 @@some debug going on here@@
 test
-and more code here
-
-this will be funny :)
